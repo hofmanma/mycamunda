@@ -1,15 +1,15 @@
 # mycamunda
 
-Beispiel einer programmierbaren Camunda-Instanz mit den REST-Endpunkten und den Web-Apps<p>
+Beispiel einer programmierbaren Camunda-Instanz mit den REST-Endpunkten und den Web-Apps<br>
 
 Datenbanksetup - Postgres
 Installation von Postgres, Beispiel Docker - https://hub.docker.com/_/postgres
 
-Anlegen der Datenbank
-$sudo docker exec -it mypostgres /bin/bash
-$su postgres
-$psql
-$CREATE DATABASE mycamunda
+Anlegen der Datenbank<br>
+$sudo docker exec -it mypostgres /bin/bash<br>
+$su postgres<br>
+$psql<br>
+$CREATE DATABASE mycamunda<br>
 
-Installation des Camunda-Modellers 
-Deployement http://localhost:8080/rest
+Installation des Camunda-Modellers<br>
+Deployement http://localhost:8080/rest<br>
