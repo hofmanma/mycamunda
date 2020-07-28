@@ -2,7 +2,7 @@
 
 Beispiel einer programmierbaren Camunda-Instanz mit den REST-Endpunkten und den Web-Apps<br>
 
-Datenbanksetup - Postgres
+Datenbanksetup - Postgres<br>
 Installation von Postgres, Beispiel Docker - https://hub.docker.com/_/postgres
 
 Anlegen der Datenbank<br>
