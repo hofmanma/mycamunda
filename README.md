@@ -12,4 +12,4 @@ $psql<br>
 $CREATE DATABASE mycamunda<br>
 
 Installation des Camunda-Modellers - https://camunda.com/de/products/modeler/<br>
-Deployment http://localhost:8080/rest<br>
+Deployment von Camunda Prozessen in die Instanz, Endpunkt: http://localhost:8080/rest<br>
